@@ -4,3 +4,12 @@ var pizza={
   sauce: "marinara",
   addToppings: console.log('Please add pepperoni and sausage')
 };
+
+function orderPizza(){
+crust;
+cheese;
+sauce;
+addToppings;
+}
+
+console.log(orderPizza)
